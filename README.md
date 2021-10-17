@@ -1,5 +1,6 @@
 # K8s assignment
 ### Below, we have the goals for this assignment. See the [PDF]() document for a detailed documentation.
+### For this assignment, we used a Python Flask app called [calculator](https://github.com/ibrahima1289/calculator).
 
 ## Goal
 
