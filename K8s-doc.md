@@ -173,7 +173,6 @@ $ kubectl apply -f flask-web.yml
 
 ## Sources visited:
 
-https://runnable.com/docker/python/dockerize-your-flask-application
-https://www.joyent.com/blog/dockerizing-a-simple-app
-https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
-
+https://runnable.com/docker/python/dockerize-your-flask-application<br>
+https://www.joyent.com/blog/dockerizing-a-simple-app<br>
+https://kubernetes.io/docs/concepts/workloads/controllers/deployment/<br>
