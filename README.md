@@ -1,5 +1,5 @@
 # K8s assignment
-### Below, we have the goals for this assignment. See the [K8s-doc.md]() document for a detailed documentation.
+### Below, we have the goals for this assignment. See the [K8s-doc.md](https://github.com/ibrahima1289/K8s-assignment/blob/main/K8s-doc.md) document for a detailed documentation.
 ### For this assignment, we used a Python Flask app called [calculator](https://github.com/ibrahima1289/calculator).
 
 ## Goal
