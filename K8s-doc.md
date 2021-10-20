@@ -165,9 +165,9 @@ $ kubectl apply -f flask-web.yml
 ![](images/Docker-flask13.PNG)
 
 8. Check the services
-```
+
 ![](images/Docker-flask14.PNG)
-```
+
 
 
 
