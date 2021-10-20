@@ -168,6 +168,9 @@ $ kubectl apply -f flask-web.yml
 
 ![](images/Docker-flask14.PNG)
 
+9.  Check on the web browser
+	
+		localhost:8080
 
 
 
