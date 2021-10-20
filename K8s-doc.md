@@ -170,13 +170,20 @@ $ kubectl apply -f flask-web.yml
 ![](images/Docker-flask14.PNG)
 
 9.  Check on the web browser
-	
-		localhost:8080
+```
+http://localhost:8080
+```
 
+10. Delete the deployment and service after you finish.
+```
+kubectl delete pods,services,deployment -l name=app_name
+```
 
 
 ## Sources visited:
 
-https://runnable.com/docker/python/dockerize-your-flask-application<br>
 https://www.joyent.com/blog/dockerizing-a-simple-app<br>
+https://kubernetes.io/docs/reference/kubectl/cheatsheet/<br>
+https://runnable.com/docker/python/dockerize-your-flask-application<br>
 https://kubernetes.io/docs/concepts/workloads/controllers/deployment/<br>
+
