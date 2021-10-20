@@ -78,6 +78,7 @@ It should be successful.
 
 ![](images/Docker-flask4.PNG)
 
+
 ### Task 2: Deploy your Flask app in Kubernetes.
 
 1. Now, recreate the previous image and tag it 
@@ -109,9 +110,9 @@ $ kubectl run --image ibrahim12/flask_web -it flask-web
 ![](images/Docker-flask8.PNG)
 
 5. Check the status of the pod
-```
+
 ![](images/Docker-flask9.PNG)
-```
+
 
 6. Create a deployment yaml file for your flask app.
 ```
